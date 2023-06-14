@@ -1,0 +1,7 @@
+echo "# initial-Python-mini-class-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MuKK-Tcheb/initial-Python-mini-class-project.git
+git push -u origin main
